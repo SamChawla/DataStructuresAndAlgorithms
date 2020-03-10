@@ -10,6 +10,6 @@ Below are some of the resources that we are going to use through out the course 
 
 2. [Krish Naik :  Series on DSA](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig)
 
-1. [Lecture 1- Data Structures And Analysis Of Algorithms](https://www.youtube.com/watch?v=0qKrfT1L-1U)
+    1. [Lecture 1- Data Structures And Analysis Of Algorithms](https://www.youtube.com/watch?v=0qKrfT1L-1U)
 
 
