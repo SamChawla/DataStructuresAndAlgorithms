@@ -15,6 +15,11 @@ Below are some of the resources that we are going to use through out the course 
 
 ***
 
+[Python Data Structures: Linked Lists](https://www.linkedin.com/learning/python-data-structures-linked-lists)
+
+
+***
+
 ## SINGLE VIDEOS AND LEARNINGS:
 
 * [The best software Interview material - Prepare in less than 3 months](https://www.youtube.com/watch?v=bBPHpH8aKjw) BY [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
