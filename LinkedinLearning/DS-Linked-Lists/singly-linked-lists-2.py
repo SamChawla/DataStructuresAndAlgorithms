@@ -30,3 +30,17 @@ class SLLNode:
         Replace the existing next with new_next
         """
         self.next = new_next
+
+# if __name__  == "__main__":
+#     # Initialize two nodes
+#     node = SLLNode('node1')
+#     node2 = SLLNode('node2')
+#
+#     # Check if next node is available
+#     node.get_next()
+#
+#     # Set next node
+#     node.set_next(node2)
+#
+#     # Now check next node
+#     node.get_next()

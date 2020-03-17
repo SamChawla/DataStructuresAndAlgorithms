@@ -10,6 +10,7 @@ Below are some of the resources that we are going to use through out the course 
 
     - [Lecture 1- Data Structures And Analysis Of Algorithms](https://www.youtube.com/watch?v=0qKrfT1L-1U)
     - [Lecture 2- Competitive Programming- Problem Statement 1](https://www.youtube.com/watch?v=VZmByby6pN8)
+    - [Lecture 3- Lecture 3- Competitive Programming Problem 1 Solution](https://www.youtube.com/watch?v=OJxmLhtBagY)
 
 3. [Algorithms by Abdul Bari Sir](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
@@ -17,6 +18,7 @@ Below are some of the resources that we are going to use through out the course 
 
 [Python Data Structures: Linked Lists](https://www.linkedin.com/learning/python-data-structures-linked-lists)
 
+[Code](https://github.com/SamChawla/DataStructuresAndAlgorithms/tree/master/LinkedinLearning/DS-Linked-Lists)
 
 ***
 
@@ -62,3 +64,10 @@ Below are some of the resources that we are going to use through out the course 
 * [CodeChef](https://www.codechef.com/)
 * [CodingGame](https://www.codingame.com/start)
 * [CodeForces](https://codeforces.com/)
+
+***
+
+## BOOKS
+
+[Problem Solving with Algorithms and Data Structures using Python
+](https://runestone.academy/runestone/books/published/pythonds/index.html)
