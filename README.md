@@ -18,6 +18,10 @@ Below are some of the resources that we are going to use through out the course 
   1. [What are data structures?](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
   2. [Big O notation explained | Measuring time complexity of an algorithm](https://www.youtube.com/watch?v=IR_S8BC8KI0&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=2)
 
+- [Coursera Data Structures and Algorithms Specialization (PAID)](https://www.coursera.org/specializations/data-structures-algorithms)
+  - [Course 1 - Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
+    - [Resources](https://github.com/SamChawla/DataStructuresAndAlgorithms/tree/master/Coursera-DSA/Course1-Algorithmic-Toolbox)
+  
 ***
 
 [Python Data Structures: Linked Lists](https://www.linkedin.com/learning/python-data-structures-linked-lists)
