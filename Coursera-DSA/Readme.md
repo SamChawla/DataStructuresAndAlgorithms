@@ -4,4 +4,6 @@ This course helps us to learn basic algorithm techniques using 29 different sets
 
 ![Programming Challanages](https://user-images.githubusercontent.com/7588716/84731238-e38f9280-afb5-11ea-808a-7bb51333ed17.png)
 
+[Interactive Algorithmic Puzzles](http://dm.compsciclub.ru/app/list)
+
 ## [Course 1 - Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
