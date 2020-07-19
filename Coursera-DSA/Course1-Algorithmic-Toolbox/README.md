@@ -125,3 +125,7 @@ Input: Integer n.
 Constraints: 0 ≤ n ≤ 10^14.
 Output: The last digit of F0^2 + F1^2 + · · · + Fn^2.
 ```
+
+[BigO Plots Exercise](Week2/bigOPlots.ipynb)
+
+[Growth Rate Quiz](Week2/algorithmic-toolbox-quiz-growth-rate.pdf)
