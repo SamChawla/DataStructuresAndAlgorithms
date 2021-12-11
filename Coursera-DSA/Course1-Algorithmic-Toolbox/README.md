@@ -1,6 +1,11 @@
-# Week 1
+# Assignments
 
-## Problem 1 | [Solution](Week1/1_1_APlusB.py)
+- [Week 1](#week-1)
+  - [Problem 1](#problem-1--solution)
+
+## Week 1
+
+### Problem 1 | [Solution](Week1/1_1_APlusB.py)
 
 ```text
 Sum of Two Digits Problem:
@@ -10,7 +15,7 @@ Input: Two single digit numbers.
 Output: The sum of these numbers..
 ```
 
-## Problem 2 | [Solution](Week1/2_1_max_pairwise_product.py)
+### Problem 2 | [Solution](Week1/2_1_max_pairwise_product.py)
 
 ```text
 Maximum Pairwise Product Problem:
@@ -22,9 +27,9 @@ Output: The maximum value that can be obtained by multiplying two different elem
 
 ***
 
-# Week 2
+## Week 2
 
-## Problem 1 | [Visulaization](https://www.cs.usfca.edu/~galles/visualization/DPFib.html) | [Simple Solution](Week2/1_1_Fibonacci_naive.py) | [Improved Solution](Week2/1_2_Fibonacci_improved.py) | [Efficient Solution](Week2/1_3_Fibonacci_efficient.py)
+### Problem 1 | [Visulaization](https://www.cs.usfca.edu/~galles/visualization/DPFib.html) | [Simple Solution](Week2/1_1_Fibonacci_naive.py) | [Improved Solution](Week2/1_2_Fibonacci_improved.py) | [Efficient Solution](Week2/1_3_Fibonacci_efficient.py)
 
 ```text
 Fibonacci Number Problem:
@@ -129,3 +134,8 @@ Output: The last digit of F0^2 + F1^2 + · · · + Fn^2.
 [BigO Plots Exercise](Week2/bigOPlots.ipynb)
 
 [Growth Rate Quiz](Week2/algorithmic-toolbox-quiz-growth-rate.pdf)
+
+***
+
+# Week 3
+
