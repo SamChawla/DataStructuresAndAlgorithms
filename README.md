@@ -13,9 +13,9 @@ Below are some of the resources that we are going to use through out the course 
 
 ***
 
-## SINGLE VIDEOS AND LEARNINGS:
+## SINGLE VIDEOS AND LEARNINGS
 
-* [The best software Interview material - Prepare in less than 3 months](https://www.youtube.com/watch?v=bBPHpH8aKjw) BY [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+- [The best software Interview material - Prepare in less than 3 months](https://www.youtube.com/watch?v=bBPHpH8aKjw) BY [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
   - **Learnings**:
     - SDE-3 : 
       - [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) + Clean Coding.
@@ -48,13 +48,13 @@ Below are some of the resources that we are going to use through out the course 
 
 ## INTERVIEW PREPARATION SITES
 
-* [InteviewBit](https://www.interviewbit.com/)
-* [HackerRank](https://www.hackerrank.com/)
-* [LeetCode](https://leetcode.com/)
-* [AlgoExpert](https://www.algoexpert.io/product)
-* [CodeChef](https://www.codechef.com/)
-* [CodingGame](https://www.codingame.com/start)
-* [CodeForces](https://codeforces.com/)
+- [InteviewBit](https://www.interviewbit.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [LeetCode](https://leetcode.com/)
+- [AlgoExpert](https://www.algoexpert.io/product)
+- [CodeChef](https://www.codechef.com/)
+- [CodingGame](https://www.codingame.com/start)
+- [CodeForces](https://codeforces.com/)
 
 ***
 
