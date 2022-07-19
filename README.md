@@ -9,7 +9,13 @@ Below are some of the resources that we are going to use through out the course 
 - [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 
 - [Algorithms by Abdul Bari Sir](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
-  
+
+***
+
+## Learn DSA
+
+- [DSA by Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- [Code from Scratch by Keerti Purswani](https://www.youtube.com/channel/UCyLgOIj_l-zAhy2YTn0kRbA)
 
 ***
 
