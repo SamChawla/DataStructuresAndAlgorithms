@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Vscode extension
+*.vscode/
+
+# Local Files
+Ebooks/*
