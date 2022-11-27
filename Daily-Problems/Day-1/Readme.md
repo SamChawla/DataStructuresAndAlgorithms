@@ -4,7 +4,7 @@
   - [Problem 1 - Find GCD](#problem-1---find-gcd)
   - [Problem 2 - Detect Capital](#problem-2---detect-capital)
   - [Problem 3 - Check Palindrome](#problem-3---check-palindrome)
-  - [Solutions](#solutions)
+  - [Problem 4 - Find Sum of First n natural numbers](#problem-4---find-sum-of-first-n-natural-numbers)
 
 ## Problem 1 - Find GCD
 
@@ -16,6 +16,8 @@ Steps:
 2. If reminder 'r' is 0, then stop; our GCD is b.
 3. Otherwise, set b to a, r to b and repeat step 1 untill r is 0.
 ```
+
+[Find GCD Solution](1_find_gcd.py)
 
 ## Problem 2 - Detect Capital
 
@@ -30,6 +32,8 @@ Only the first letter in this word is capital, like "Google".
 Otherwise, we define that this word doesn't use capitals in a right way.
 ```
 
+[Detect Capital Solution](2_detect_capital.py)
+
 ## Problem 3 - Check Palindrome
 
 ```text
@@ -39,8 +43,14 @@ A palindrome is a string that is read the same from front to back and back to fr
 For example, noon and racecar are both palindromes.
 ```
 
-## Solutions
+[Check Palindrome Solution](3_check_palindrome.py)
 
-- Problem 1: Find GCD - [Solution](1_find_gcd.py)
-- Problem 2: Detect Capital - [Solution](2_detect_capital.py)
-- Problem 3: Check palindrome - [Solution](3_check_palindrome.py)
+## Problem 4 - Find Sum of First n natural numbers
+
+```text
+Find the sum of first n natural numbers
+
+You can use the formula n(n+1)/2 to get the sum directly instead of looping over
+```
+
+[Find Sum Solution](4_sum_first_n_numbers.py)

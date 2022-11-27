@@ -3,6 +3,7 @@
 - [Algorithms](#algorithms)
   - [Definition](#definition)
     - [Properties of algorithms](#properties-of-algorithms)
+  - [Steps to construct an algorithm](#steps-to-construct-an-algorithm)
   - [Analysis of Algorithms](#analysis-of-algorithms)
     - [Types of Analysis](#types-of-analysis)
 
@@ -11,11 +12,11 @@
 - It is a sequence of finite steps used to solve a particular problem.
 e.g
 
-```code
-Multiply(){
-    1. Take 2 numbers (a,b)
-    2. Multiply a and b and store in c.
-    3. return c
+```text
+    Multiply(){
+      1. Take 2 numbers (a,b)
+      2. Multiply a and b and store in c.
+      3. return c
 }
 ```
 
@@ -28,12 +29,29 @@ Multiply(){
 
 ---
 
+## Steps to construct an algorithm
+
+1. Problem Definition
+2. Design algorithm (Divide & Conquer, Greedy, DP and many more)
+3. Draw Flow Chart
+4. Testing
+5. Implementation
+6. Analysis (Time Complexing and Space Complexity)
+
+---
+
 ## Analysis of Algorithms
 
 Analysis can be done on the basis of:
 
 - Time Complexity
 - Space Complexity
+
+Both time and space complexity can be calculated in terms of `Aysmptotic Notations`:
+
+- __Big O (Worst Case Scenario)__
+- Omega (Best Case Scenario)
+- Theta (Average Case Scenario)
 
 ### Types of Analysis
 
