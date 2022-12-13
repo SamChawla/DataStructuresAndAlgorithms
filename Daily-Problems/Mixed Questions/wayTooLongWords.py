@@ -22,6 +22,6 @@ words = int(input())
 for n in range(words):
     word = input()
     result = word
-    if len(word)>10:
-        result = "{}{}{}".format(word[0], len(word)-2, word[-1])
-    print(result)    
+    if len(word) > 10:
+        result = "{}{}{}".format(word[0], len(word) - 2, word[-1])
+    print(result)

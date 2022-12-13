@@ -3,6 +3,7 @@
 # A palindrome is a string that is read the same from front to back and back to front.
 # For example, noon and racecar are both palindromes.
 
+
 def is_palindrome(text):
     """
     Return True if text is a palindrome else False.

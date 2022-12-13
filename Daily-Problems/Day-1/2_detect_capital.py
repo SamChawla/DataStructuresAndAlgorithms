@@ -8,9 +8,11 @@
 # Only the first letter in this word is capital, like "Google".
 # Otherwise, we define that this word doesn't use capitals in a right way.
 
+
 def detect_capital(word):
     if word.isupper() or word.islower() or word.istitle():
         return True
+
 
 if __name__ == "__main__":
     word = input("Enter a word: ")
